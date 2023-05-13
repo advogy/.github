@@ -13,6 +13,7 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 - Sistem Informasi Kepegawaian Advent
 - Aplikasi pembelajaran Alkitab online
 - Website organisasi, institusi dan gereja
+- Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
 - dll
 
 ## Bergabung dengan Kami
