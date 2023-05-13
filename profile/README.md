@@ -16,6 +16,6 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 - dll
 
 ## Bergabung dengan Kami
-Kami selalu terbuka untuk bergabung dengan orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan. Jika Anda tertarik untuk bergabung dengan kami, kunjungi situs web kami di www.advogy.org untuk informasi lebih lanjut tentang cara bergabung.
+Kami selalu terbuka untuk bergabung dengan orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan. Jika Anda tertarik untuk bergabung dengan kami, hubungi kami melalui email advogy.id@gmail.com untuk informasi lebih lanjut tentang cara bergabung.
 
 Terima kasih telah membaca tentang Advogy dan kami berharap dapat bekerja sama dengan Anda untuk memuliakan Tuhan melalui teknologi.
