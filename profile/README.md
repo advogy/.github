@@ -18,11 +18,11 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
    - **Deskripsi**: Website untuk mempermudah manajemen kepegawaian organisasi Gereja Masehi Advent Hari Ketujuh di Indonesia.
    - **Lihat Proyek**: Private
 
-### TO DO
-- Aplikasi pembelajaran Alkitab online
-- Website organisasi, institusi dan gereja
-- Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
-- dll
+### 3. TO DO
+   - Aplikasi pembelajaran Alkitab online
+   - Website organisasi, institusi dan gereja
+   - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
+   - dll
 
 ## Bergabung dengan Kami
 Kami selalu terbuka untuk menyambut kontribusi dari orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan, baik Anda adalah developer, designer, dan penggiat lainnya.  Jika Anda tertarik, ikuti langkah-langkah berikut untuk mulai berkontribusi:
@@ -39,9 +39,9 @@ Tetap up-to-date dengan perkembangan proyek kami! Berikut adalah beberapa statis
 
 - **Jumlah Repositori**: 
 - **Kontributor**: 
-- **Stars**: ![Stars](https://img.shields.io/github/stars/advogy/pa-kjkt?style=social)
-- **Forks**: ![Forks](https://img.shields.io/github/forks/advogy/pa-kjkt?style=social)
-- **Issues Terbuka**: ![Issues](https://img.shields.io/github/issues/advogy/pa-kjkt)
+- **Stars**: 
+- **Forks**:
+- **Issues Terbuka**:
 
 ## Dukungan dan Sponsor
 Kami berterima kasih kepada semua yang telah mendukung kami. Jika Anda ingin mendukung proyek ini lebih lanjut, baik secara finansial atau dengan bantuan lainnya, jangan ragu untuk menghubungi kami.
