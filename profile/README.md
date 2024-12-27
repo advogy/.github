@@ -10,13 +10,41 @@ Tujuan utama kami adalah menciptakan teknologi yang bermanfaat bagi umat manusia
 ## Proyek Kami
 Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaiki dunia. Beberapa proyek yang telah kami kerjakan antara lain:
 
-- Sistem Informasi Kepegawaian Advent
+### 1. **PAKJKT Platform**
+   - **Deskripsi**: Website untuk mempermudah manajemen kegiatan dan pelatihan bagi departemen Pemuda Advent KJKT.
+   - **Lihat Proyek**: Private
+
+### 2. **Sistem Informasi Kepegawaian Advent**
+   - **Deskripsi**: Website untuk mempermudah manajemen kepegawaian organisasi Gereja Masehi Advent Hari Ketujuh di Indonesia.
+   - **Lihat Proyek**: Private
+
+### TO DO
 - Aplikasi pembelajaran Alkitab online
 - Website organisasi, institusi dan gereja
 - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
 - dll
 
 ## Bergabung dengan Kami
-Kami selalu terbuka untuk bergabung dengan orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan. Jika Anda tertarik untuk bergabung dengan kami, hubungi kami melalui email advogy.id@gmail.com untuk informasi lebih lanjut tentang cara bergabung.
+Kami selalu terbuka untuk menyambut kontribusi dari orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan, baik Anda adalah developer, designer, dan penggiat lainnya.  Jika Anda tertarik, ikuti langkah-langkah berikut untuk mulai berkontribusi:
+1. **Fork Repositori**: Temukan repositori yang Anda minati dan klik tombol **Fork**.
+2. **Buat Branch Baru**: Buat branch baru untuk fitur atau perbaikan yang ingin Anda lakukan.
+3. **Kirim Pull Request**: Setelah selesai, kirimkan pull request dengan deskripsi perubahan yang Anda buat.
 
-Terima kasih telah membaca tentang Advogy dan kami berharap dapat bekerja sama dengan Anda untuk memuliakan Tuhan melalui teknologi.
+## Hubungi Kami
+Jika Anda ingin berkolaborasi, memiliki pertanyaan, atau ingin berbagi ide, kami ingin mendengar dari Anda:
+- **Email**: [advogy.id@gmail.com](mailto:advogy.id@gmail.com)
+
+## Statistik
+Tetap up-to-date dengan perkembangan proyek kami! Berikut adalah beberapa statistik menarik tentang projek kami:
+
+- **Jumlah Repositori**: 
+- **Kontributor**: 
+- **Stars**: ![Stars](https://img.shields.io/github/stars/advogy/pa-kjkt?style=social)
+- **Forks**: ![Forks](https://img.shields.io/github/forks/advogy/pa-kjkt?style=social)
+- **Issues Terbuka**: ![Issues](https://img.shields.io/github/issues/advogy/pa-kjkt)
+
+## Dukungan dan Sponsor
+Kami berterima kasih kepada semua yang telah mendukung kami. Jika Anda ingin mendukung proyek ini lebih lanjut, baik secara finansial atau dengan bantuan lainnya, jangan ragu untuk menghubungi kami.
+
+
+Terima kasih telah mengunjungi dan membaca tentang profil Advogy dan kami berharap dapat bekerja sama dengan Anda untuk memuliakan Tuhan melalui teknologi.  Mari bersama-sama melayani dan menginspirasi!
