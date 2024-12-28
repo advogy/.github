@@ -12,7 +12,7 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 
 ### 1. **PAKJKT Platform**
    - **Deskripsi**: Website untuk mempermudah manajemen kegiatan dan pelatihan bagi departemen Pemuda Advent KJKT.
-   - **Lihat Proyek**: Private
+   - **Lihat Proyek**: **[www.pakjkt.id](https://www.pakjkt.id)**
 
 ### 2. **Sistem Informasi Kepegawaian Advent**
    - **Deskripsi**: Website untuk mempermudah manajemen kepegawaian organisasi Gereja Masehi Advent Hari Ketujuh di Indonesia.
