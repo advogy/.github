@@ -18,7 +18,11 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
    - **Deskripsi**: Website untuk mempermudah manajemen kepegawaian organisasi Gereja Masehi Advent Hari Ketujuh di Indonesia.
    - **Lihat Proyek**: Private
 
-### 3. TO DO
+### 3. **Adventist Tithe and Offering Management System (ATOMS) KJKT**
+   - **Deskripsi**: Sistem informasi untuk manajemen keuangan jemaat (Penerimaan dan Pengeluaran) di GMAHK KJKT.
+   - **Lihat Proyek**: Private
+
+### 4. TO DO
    - Aplikasi pembelajaran Alkitab online
    - Website organisasi, institusi dan gereja
    - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
