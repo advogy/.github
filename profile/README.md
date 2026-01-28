@@ -20,7 +20,7 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 
 ### 3. **Adventist Tithe and Offering Management System (ATOMS) KJKT**
    - **Deskripsi**: Sistem informasi untuk manajemen keuangan jemaat (Penerimaan dan Pengeluaran) di GMAHK KJKT.
-   - **Lihat Proyek**: Private
+   - **Lihat Proyek**: **[atoms.adventkjkt.or.id](https://atoms.adventkjkt.or.id)**
 
 ### 4. TO DO
    - Aplikasi pembelajaran Alkitab online
