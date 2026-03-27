@@ -25,7 +25,7 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 ### 4. **Hopeline Care**
    - **Deskripsi**: Platform pendampingan dan konseling spiritual.
    - **Lihat Proyek**: Private
-   - 
+     
 ### 5. TO DO
    - Aplikasi pembelajaran Alkitab online
    - Website organisasi, institusi dan gereja
