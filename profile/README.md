@@ -22,7 +22,11 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
    - **Deskripsi**: Sistem informasi untuk manajemen keuangan jemaat (Penerimaan dan Pengeluaran) di GMAHK KJKT.
    - **Lihat Proyek**: **[atoms.adventkjkt.or.id](https://atoms.adventkjkt.or.id)**
 
-### 4. TO DO
+### 4. **Hopeline Care**
+   - **Deskripsi**: Platform pendampingan dan konseling spiritual.
+   - **Lihat Proyek**: Private
+   - 
+### 5. TO DO
    - Aplikasi pembelajaran Alkitab online
    - Website organisasi, institusi dan gereja
    - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
