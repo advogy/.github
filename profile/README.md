@@ -38,9 +38,10 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 
 ## Bergabung dengan Kami
 Kami selalu terbuka untuk menyambut kontribusi dari orang-orang yang bersemangat dan berkomitmen untuk menggunakan teknologi untuk kemulian Tuhan, baik Anda adalah developer, designer, dan penggiat lainnya.  Jika Anda tertarik, ikuti langkah-langkah berikut untuk mulai berkontribusi:
-1. **Fork Repositori**: Temukan repositori yang Anda minati dan klik tombol **Fork**.
-2. **Buat Branch Baru**: Buat branch baru untuk fitur atau perbaikan yang ingin Anda lakukan.
-3. **Kirim Pull Request**: Setelah selesai, kirimkan pull request dengan deskripsi perubahan yang Anda buat.
+1. **Hubungi Kami**: Hubungi kami untuk mendaftar diri agar dapat didaftarkan pada github ini.
+2. **Fork Repositori**: Temukan repositori yang Anda minati dan klik tombol **Fork**.
+3. **Buat Branch Baru**: Buat branch baru untuk fitur atau perbaikan yang ingin Anda lakukan.
+4. **Kirim Pull Request**: Setelah selesai, kirimkan pull request dengan deskripsi perubahan yang Anda buat.
 
 ## Hubungi Kami
 Jika Anda ingin berkolaborasi, memiliki pertanyaan, atau ingin berbagi ide, kami ingin mendengar dari Anda:
