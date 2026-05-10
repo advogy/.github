@@ -16,17 +16,21 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 
 ### 2. **Sistem Informasi Kepegawaian Advent**
    - **Deskripsi**: Website untuk mempermudah manajemen kepegawaian organisasi Gereja Masehi Advent Hari Ketujuh di Indonesia.
-   - **Lihat Proyek**: Private
+   - **Lihat Proyek**: Private (under development)
 
 ### 3. **Adventist Tithe and Offering Management System (ATOMS) KJKT**
    - **Deskripsi**: Sistem informasi untuk manajemen keuangan jemaat (Penerimaan dan Pengeluaran) di GMAHK KJKT.
    - **Lihat Proyek**: **[atoms.adventkjkt.or.id](https://atoms.adventkjkt.or.id)**
 
 ### 4. **Hopeline Care**
-   - **Deskripsi**: Platform pendampingan dan konseling spiritual.
-   - **Lihat Proyek**: Private
-     
-### 5. TO DO
+   - **Deskripsi**: Sistem informasi untuk manajemen pendampingan dan konseling spiritual pemirsa Hope Channel Indonesia.
+   - **Lihat Proyek**: **[www.hopeline.care](https://www.hopeline.care)**
+
+### 5. **Adventist Youth Total Leadership and Administration System (ATLAS)**
+   - **Deskripsi**: Sistem informasi untuk manajemen kepemimpinan dan administrasi klub Pelayanan Pemuda Advent di Indonesia.
+   - **Lihat Proyek**: private (under development)
+          
+### 6. TO DO
    - Aplikasi pembelajaran Alkitab online
    - Website organisasi, institusi dan gereja
    - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
