@@ -29,8 +29,12 @@ Kami telah mengerjakan beberapa proyek teknologi yang bertujuan untuk memperbaik
 ### 5. **Adventist Youth Total Leadership and Administration System (ATLAS)**
    - **Deskripsi**: Sistem informasi untuk manajemen kepemimpinan dan administrasi klub Pelayanan Pemuda Advent di Indonesia.
    - **Lihat Proyek**: private (under development)
-          
-### 6. TO DO
+
+### 6. **Hopenalytics**
+   - **Deskripsi**: Dasbor untuk memantau dan menganalisis pergerakan media sosial gereja — pertumbuhan subscriber, followers, views, likes, comment dan post di YouTube, Instagram, TikTok, X, Threads dan Facebook, dalam satu tempat.
+   - **Lihat Proyek**: **[www.hopenalytics.id](https://www.hopenalytics.id)**
+
+### 7. TO DO
    - Aplikasi pembelajaran Alkitab online
    - Website organisasi, institusi dan gereja
    - Platform pendukung UMKM umat Tuhan dalam mempromosikan usaha mereka
